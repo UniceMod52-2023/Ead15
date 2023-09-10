@@ -1,2 +1,2 @@
 # Hello_World
-Exemplificando IC
+Exemplificando IC (Integração contínua)
