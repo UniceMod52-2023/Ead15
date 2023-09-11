@@ -5,4 +5,4 @@ Exemplificando IC (Integração contínua):
 Este repositório é para por em prática o funcionamento da integração contínua, item relacionado a disciplina de Tópicos especiais.
 
 # Expectativas
-Espero me aprimorar e obter domínio na aplicação da integração contínua através do Githurb.
+Evoluir ao por os conceitos em pratica com esta plataforma.
