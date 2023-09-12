@@ -5,4 +5,4 @@ Exemplificando IC (Integração contínua):
 Este repositório é para por em prática o funcionamento da integração contínua, item relacionado a disciplina de Tópicos especiais.
 
 # Expectativas
-Evoluir ao por os conceitos em pratica com esta plataforma.
+Evoluir e por os conceitos em prática.
