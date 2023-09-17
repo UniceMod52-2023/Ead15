@@ -3,7 +3,7 @@ Exemplificando IC (Integração contínua):
 # Apresentação
 Meu nome é Janaina Rocha e esta é uma atividade para exemplificar e compreender, na prática, como funciona a integração contínua.
 Sou Aluna do curso de Análise e desenvolimento de sistemas da Unicesumar.
-# Ramificação02
+# Ramificação 02
 Linha teste para o segundo leia-me.
 
 
